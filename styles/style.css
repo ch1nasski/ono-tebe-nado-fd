@@ -86,12 +86,12 @@
 }
 
 .cover__title {
-  width: 1000px; 
   position: relative;
   text-transform: uppercase;
   font-size: 100px;
   z-index: 2;
   line-height: 1.1px;
+  width: 1000px;
 }
 
 .aligned-text {
