@@ -38,7 +38,8 @@
 
 .header__links-list-item_active {
   list-style: none; 
-  }
+
+}
 
 .header__link {
   text-decoration: none;
@@ -212,7 +213,7 @@ min-height: 596px;
   text-decoration: none;
   height: 100%;
   display: block;  
-  }
+}
 
 .card {
   position: relative;
@@ -279,7 +280,7 @@ margin-bottom: 126px;
   font-size: 20px;
   text-decoration: none;
   border-bottom: 1px solid black; 
-  }
+}
 
 .about {
 width: 1052px;
